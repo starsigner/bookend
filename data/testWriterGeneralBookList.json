@@ -1,0 +1,15 @@
+{
+    "name": "My book list",
+    "collection": [
+        {
+            "author": "Blake Crouch",
+            "rating": 4,
+            "title": "Recursion"
+        },
+        {
+            "author": "Fonda Lee",
+            "rating": 5,
+            "title": "Jade Legacy"
+        }
+    ]
+}

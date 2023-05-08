@@ -1,0 +1,20 @@
+{
+    "name": "Dhara",
+    "collection": [
+        {
+            "author": "Fonda Lee",
+            "rating": 5,
+            "title": "Jade Legacy"
+        },
+        {
+            "author": "Blake Crouch",
+            "rating": 4,
+            "title": "Recursion"
+        },
+        {
+            "author": "Suzanne Collins",
+            "rating": 5,
+            "title": "Hunger Games"
+        }
+    ]
+}
